@@ -1,0 +1,36 @@
+.gallery {
+  width: 100%;
+  margin-top: 2em;
+}
+
+.box-gallery-title {
+  text-align: center;
+  padding: 0 1em 0 1em;
+  margin: 0;
+}
+
+.gallery__title {
+  color: var(--title-color);
+  padding: 1rem;
+  margin: 0;
+}
+
+.gallery__subtitle {
+  color: var(--text-color);
+  text-align: justify;
+}
+
+.box-gallery-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+}
+
+.gallery-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.none {
+  display: none;
+}

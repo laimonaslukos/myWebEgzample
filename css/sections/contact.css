@@ -1,0 +1,41 @@
+.contact{
+    text-align: center;
+}
+.box-contact-team{
+    text-align: center;
+    
+}
+.contact-team{
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+
+}
+.contact__image{
+    width: 70%;
+    box-shadow: 1px 1px 1px 1px grey;
+
+}
+.contact-team{
+    margin: 0.8em 0 0.8em 0;
+}
+.contact__title{
+    margin: 1em;
+
+
+}
+.contact__team__title{
+    color: var(--title-color);
+    margin-bottom: 2px;
+
+}
+.contact__team__subtitle {
+    color: var(--text-color);
+    text-transform: uppercase;
+    font-size: small;
+    margin-bottom: 0.2em;
+    margin-top: 0.5em;
+}
+.facebook, .instagram, .twiter{
+    font-size: 1em;
+    padding: 0.4em;
+}

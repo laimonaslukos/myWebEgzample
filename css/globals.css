@@ -1,0 +1,35 @@
+/* Variables - kintamieji */
+html{
+  scroll-behavior: smooth;
+}
+body {
+font-size: calc(16px + (26 - 16) * ((100vw - 300px) / (1600 - 300)));
+  margin: 0;
+box-sizing: border-box;
+width: 100%;
+}
+.box-vogue{
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: var(--link-date-color);
+  
+}
+.header-nav__link{
+
+  color: var(--title-color);
+}
+h1 {
+  color: var(--title-color);
+  font-weight: normal;
+}
+
+p {
+  color: var(--text-color);
+  font-weight: normal;
+  line-height: normal;
+}
+
+

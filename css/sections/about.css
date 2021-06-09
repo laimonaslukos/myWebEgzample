@@ -1,0 +1,27 @@
+.box-about {
+  width: 100%;
+  margin-top: 2em;
+}
+
+.about__title {
+  text-align: center;
+}
+.about__subtitle {
+  padding: 0 1em 0 1em;
+  text-align: justify;
+  margin: 0;
+}
+.about-link-container {
+  margin: 1em 0 0 1em;
+}
+
+.img-container {
+  width: 100%;
+  float: left;
+  width: 40%;
+  margin: 1em;
+  text-align: center;
+}
+.about__image {
+  width: 100%;
+}

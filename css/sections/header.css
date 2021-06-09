@@ -1,0 +1,34 @@
+/* Screen 576px and less*/
+
+/* Header */
+.header {
+  background-image: url(/img/Hero/portrait-one.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  width: 100%;
+  height: 667px;
+  margin: 0;
+}
+
+.header-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-nav__link {
+  display: none;
+}
+.header-logo {
+  width: 5rem;
+  margin-left: 2em;
+  padding: 0.7em;
+}
+.header-nav-toggle {
+  margin-right: 2em;
+  padding: 0.7em;
+  color: var(--title-color);
+}
+
+
